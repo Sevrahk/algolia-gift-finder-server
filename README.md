@@ -1,0 +1,9 @@
+# API
+
+Algolia API
+
+### .env file
+- NODE_ENV
+- MONGODB_URI
+- CORS_AUTHORIZED_URL
+- API_KEY
